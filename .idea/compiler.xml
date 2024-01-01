@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="small-spring-03" />
         <module name="small-spring-02" />
+        <module name="small-spring-04" />
         <module name="small-spring-01" />
       </profile>
     </annotationProcessing>
